@@ -6,7 +6,7 @@ const CONFIG = {
     title: 'Anh có yêu em không zợ ._.?',
     desc: 'Có rất nhiều cách để hạnh phúc. Nhanh nhất chính là nhìn thấy anh. ',
     btnYes: 'Anh có yêu em <3',
-    btnNo: 'Không nha anh zai :v ',
+    btnNo: 'Không nha em gái :v ',
     question:'Anh thích em ở điểm nào zợ ??',
     btnReply: 'Gửi cho em <3',
     reply: 'Em vừa xinh gái lại cute biết điều nữa  <33333333',
