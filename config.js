@@ -1,17 +1,17 @@
 const CONFIG = {
-    introTitle: 'Bae à!',
-    introDesc: `Anh có điều này muốn hỏi em nhớ phải trả lời 
+    introTitle: 'Anh ơi!',
+    introDesc: `em có điều này muốn hỏi anh nhớ phải trả lời 
     thật lòng nha`,
-    btnIntro: 'vâng',
-    title: 'Em đồng ý làm người yêu anh nhé ??',
+    btnIntro: 'Dạ anh nghe',
+    title: 'Anh có yêu em không zợ ??',
     desc: 'Đẹp nhất không phải là ngày mưa mà là ngày cùng anh nhận giấy khen Gia đình văn hóa ',
-    btnYes: 'Vâng em đồng ý <3',
-    btnNo: 'Không nha anh',
-    question:'Em thích anh ở điểm nào zợ ??',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Anh đẹp zai lại còn tâm lý  <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Nhắn tin cho anh luôn nhó bae.',
+    btnYes: 'Anh có yêu em <3',
+    btnNo: 'Không ',
+    question:'Anh thích em ở điểm nào zợ ??',
+    btnReply: 'Gửi cho em <3',
+    reply: 'Em vừa xinh gái lại cute biết điều nữa  <33333333',
+    mess: ' Yêu Anh nhiều nhiều 😘😘',
+    messDesc: 'Nhắn tin cho Em luôn nhó Anh iu.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
