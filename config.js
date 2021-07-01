@@ -4,7 +4,7 @@ const CONFIG = {
     thật lòng nha`,
     btnIntro: 'Dạ anh nghe',
     title: 'Anh có yêu em không zợ ??',
-    desc: 'Đẹp nhất không phải là ngày mưa mà là ngày cùng anh nhận giấy khen Gia đình văn hóa ',
+    desc: 'Có rất nhiều cách để hạnh phúc. Nhanh nhất chính là nhìn thấy anh. ',
     btnYes: 'Anh có yêu em <3',
     btnNo: 'Không ',
     question:'Anh thích em ở điểm nào zợ ??',
